@@ -1,10 +1,6 @@
 ````markdown
 # Osdag Screening Task — Xarray & Plotly / Matplotlib
 
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC--BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
----
 
 ## 📌 About The Project
 
@@ -210,7 +206,7 @@ Distributed under the **Creative Commons Attribution–ShareAlike 4.0 Internatio
 ## 📬 Contact
 
 **Your Name**
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [adijain1106@gmail.com](mailto:adijain1106@gmail.com)
 LinkedIn: your-linkedin
 GitHub: your-github
 
